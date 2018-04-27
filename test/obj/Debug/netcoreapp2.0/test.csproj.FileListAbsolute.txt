@@ -19,3 +19,4 @@ D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
 D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
 D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.dll
 D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.pdb
+D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.csprojResolveAssemblyReference.cache

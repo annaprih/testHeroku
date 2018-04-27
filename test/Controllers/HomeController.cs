@@ -17,7 +17,7 @@ namespace test.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application deskjdrfgkdcription page.";
+            ViewData["Message"] = "Your application description page.";
 
             return View();
         }
