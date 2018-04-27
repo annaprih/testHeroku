@@ -9,3 +9,13 @@ D:\test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
 D:\test\test\bin\Debug\netcoreapp2.0\test.pdb
 D:\test\test\obj\Debug\netcoreapp2.0\test.dll
 D:\test\test\obj\Debug\netcoreapp2.0\test.pdb
+D:\testHeroku\test\bin\Debug\netcoreapp2.0\test.deps.json
+D:\testHeroku\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+D:\testHeroku\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+D:\testHeroku\test\bin\Debug\netcoreapp2.0\test.dll
+D:\testHeroku\test\bin\Debug\netcoreapp2.0\test.pdb
+D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.dll
+D:\testHeroku\test\obj\Debug\netcoreapp2.0\test.pdb
